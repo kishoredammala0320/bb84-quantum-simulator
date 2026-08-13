@@ -43,6 +43,8 @@ Language: Python 3.10+
 
 Web Framework: Streamlit
 
+Quantum Engine: Qiskit SDK, Qiskit Aer (qasm_simulator)
+
 Data Visualization: Plotly, Pandas, NumPy
 
 Styling & Animation: CSS3, Inline SVGs 
